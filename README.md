@@ -6,7 +6,7 @@
 [![Tests](https://img.shields.io/badge/Tests-5%20Passed-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-> **Target Role:** Google Student Researcher / Quantitative Research / ML Research (Machine Learning / Financial Econometrics / Uncertainty Quantification)  
+> **Domain:** Quantitative Research & Machine Learning / Financial Econometrics & Uncertainty Calibration  
 > **Key Capabilities Demonstrated:** First-principles statistical modeling (Gaussian HMM Baum-Welch from scratch in log space), strict walk-forward temporal evaluation without data leakage, probability calibration (Platt scaling vs isotonic regression), and Expected Calibration Error (ECE) analysis.
 
 ---
